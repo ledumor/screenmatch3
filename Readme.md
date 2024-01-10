@@ -18,4 +18,8 @@
  - git remote add origin https://github.com/ledumor/Screenmatch.git
   > faz conexão da 'main' com repositório do gitbug chamado 'origin' atraves desse link
 
--  git push -u origin main - faz o push do 'main' para 'origin'
+-  git push -u origin main - faz o 1o push do 'main' para 'origin'
+
+- git add . - adiciona todos os documentos no stage
+
+- git push origin main - faz push para atualizar o repositório.
